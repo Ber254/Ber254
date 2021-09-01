@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ber254
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning PHP and python
+- 👀 I’m interested in Full Stack
+- 🌱 I’m currently learning PHP and Full Stack (Java)
 - 💞️ I’m looking to collaborate on small it works
 - 📫 How to reach me bernardofoco@gmail.com
 
